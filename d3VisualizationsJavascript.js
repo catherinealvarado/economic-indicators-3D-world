@@ -331,7 +331,7 @@
         var selectEconOption = document.getElementById("economicIndicators");
         var econIndi = selectEconOption.options[selectEconOption.selectedIndex].value;
 
-        script.setAttribute("src","https://api.worldbank.org/countries/"+countryAbbrevDictionary[p.properties.name]+"/indicators/"+economicIndicatorsDictionary[econIndi].ind+"?format=jsonP&prefix=mycallback");
+        script.setAttribute("src","http://api.worldbank.org/countries/"+countryAbbrevDictionary[p.properties.name]+"/indicators/"+economicIndicatorsDictionary[econIndi].ind+"?format=jsonP&prefix=mycallback");
         
         script.setAttribute("id","specificCountryData")
         head.appendChild(script);
