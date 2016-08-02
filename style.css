@@ -106,7 +106,10 @@ rect {
 }
 
 /*Modal styling*/
-p{color: #808080;}
+p{
+  color: #808080;
+  font-size: 15px;
+}
 
 /* The Modal (background) */
 .modal {
