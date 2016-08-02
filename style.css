@@ -1,0 +1,136 @@
+
+body {
+  background: #FFC0CB;
+  margin: 0;
+  text-align: center;
+  color:white;
+  font-family: Sans-serif;
+}
+
+h1{
+  font-family:Monaco;
+  font-size: 37px;
+}
+
+/*Styles for the world globe*/
+#worldGlobe {
+  width: 1280px;
+  height: 800px; 
+  pointer-events: all;
+}
+
+circle {
+  fill: #dbe4f0;
+}
+
+path {
+  fill: #aaa;
+  stroke: #fff;
+}
+
+path:hover{
+  fill:#ADD8E6;
+}
+
+pre {
+  font-size: 18px;
+}
+
+line {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.string, .regexp {
+  color: #f39;
+}
+
+.keyword {
+  color: #00c;
+}
+
+.comment {
+  color: #777;
+  font-style: oblique;
+}
+
+.number {
+  color: #369;
+}
+
+.class, .special {
+  color: #1181B8;
+}
+
+a:link, a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+}
+
+/*styles for the bargraph*/
+svg {
+  font: 10px sans-serif;
+}
+
+.title {
+  font: 300 78px Helvetica Neue;
+}
+
+.y.axis path {
+  display: none;
+}
+
+.y.axis line {
+  stroke: #fff;
+  stroke-opacity: .2;
+  shape-rendering: crispEdges;
+}
+
+.y.axis .zero line {
+  stroke: #000;
+  stroke-opacity: 1;
+}
+
+.year {
+  text-anchor: middle;
+}
+
+rect {
+  fill-opacity: .6;
+  color: #e377c2;
+ 
+}
+
+/*Modal styling*/
+p{color: #808080;}
+
+/* The Modal (background) */
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; /* Enable scroll if needed */
+    background-color: white; /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color:#ADD8E6;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+    height: 80%;
+}
+
+
+
