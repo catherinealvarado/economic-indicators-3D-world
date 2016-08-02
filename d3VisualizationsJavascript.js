@@ -185,10 +185,9 @@
 
         var globalEconInfo = econWorldBankData;
 
-        var newContent = "<p>"+ countryName +" - "+econIndi+"</p>"; 
+        var newContent = "<p>"+ countryName +" - "+econIndi+" (Press the left or right arrow key to see other years. Click outside the box to exit.)"+"</p>"; 
         newContent += "<p>"+economicIndicatorsDictionary[econIndi].detail+"</p>"
-        newContent += "<p>(Note: Press the left or right arrow key to see other years. Click outside the box to exit.)<p>"
-
+        
         d3.select("#myModal").style("display","block").select(".modal-content").html(newContent);
 
         var margin = {top: 40, right:40, bottom: 10, left: 20},
