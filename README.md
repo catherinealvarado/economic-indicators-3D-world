@@ -1,4 +1,4 @@
-# catherinealvarado.github.io
+# 3D Interactive World and Financial Information
 
 To see a working version of my project go to the following link:
 http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
