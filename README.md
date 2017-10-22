@@ -3,6 +3,8 @@
 To see a working version of my project go to the following link:
 http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
 
+<a href="https://imgflip.com/gif/1y18cf"><img src="https://i.imgflip.com/1y18cf.gif" title="made at imgflip.com"/></a>
+
 (My project is not properly displayed on GitHub because my API call makes a hhtp request, but
 due to security issues GitHub requires hhtps requests. In order to overcome security server side 
 issues I used AWS to host my project.)
