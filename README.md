@@ -4,7 +4,7 @@ To see a working version of my project go to the following link:
 http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
 
 ## Demo:
-![](3D_world_map.gif)
+![](3D_world_demo.gif)
 
 -----------------------------
 
