@@ -2,6 +2,8 @@
 
 To see a working version of my project go to the following link:
 http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
+
+
 ![](3D_world_map.gif)
 
 (My project is not properly displayed on GitHub because my API call makes a hhtp request, but
