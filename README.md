@@ -6,10 +6,6 @@ http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
 ## Demo:
 ![](3D_world_map.gif)
 
-(My project is not properly displayed on GitHub because my API call makes a hhtp request, but
-due to security issues GitHub requires hhtps requests. In order to overcome security server side 
-issues I used AWS to host my project.)
-
 -----------------------------
 
 I was inspired to create this project after finding these two D3.js projects.
