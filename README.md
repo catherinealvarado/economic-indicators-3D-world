@@ -5,6 +5,7 @@ http://catherinealvarado.s3-website-us-east-1.amazonaws.com/
 
 ## Demo:
 ![](3D_world_demo.gif)
+
 Here is a short video of my project: https://youtu.be/ZT5HX_fAORc
 
 -----------------------------
